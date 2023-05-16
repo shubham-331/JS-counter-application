@@ -1,0 +1,17 @@
+.container{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.title{
+    font-family: 66px;
+}
+
+.counter{
+    font-size: 86px;
+}
+.btn{
+    background-color: purple;
+    color: whitesmoke;
+    padding: 10px 24px;
+    border: none; 
+}
